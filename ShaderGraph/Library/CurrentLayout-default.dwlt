@@ -115,7 +115,7 @@ MonoBehaviour:
   m_MinSize: {x: 707, y: 492}
   m_MaxSize: {x: 18002, y: 14042}
   vertical: 0
-  controlID: 127
+  controlID: 55
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -140,7 +140,7 @@ MonoBehaviour:
   m_MinSize: {x: 431, y: 492}
   m_MaxSize: {x: 14001, y: 14042}
   vertical: 1
-  controlID: 128
+  controlID: 56
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -253,7 +253,7 @@ MonoBehaviour:
   m_MinSize: {x: 431, y: 271}
   m_MaxSize: {x: 14001, y: 10021}
   vertical: 0
-  controlID: 129
+  controlID: 127
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -456,7 +456,7 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 103d0000
+      m_SelectedIDs: 
       m_LastClickedID: 0
       m_ExpandedIDs: 68fbffff
       m_RenameOverlay:
@@ -518,9 +518,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: 29.914534, y: -15.084104, z: -10.954504}
+    m_Target: {x: -39.002926, y: -1.7703996, z: -4.209509}
     speed: 2
-    m_Value: {x: 29.914534, y: -15.084104, z: -10.954504}
+    m_Value: {x: -39.002926, y: -1.7703996, z: -4.209509}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -566,9 +566,9 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.18540537, y: -0.6570008, z: 0.17147928, w: -0.7103452}
+    m_Target: {x: 0.017166724, y: -0.7461957, z: 0.019269237, w: 0.66524506}
     speed: 2
-    m_Value: {x: 0.18540539, y: 0.65700084, z: -0.17147928, w: 0.7103452}
+    m_Value: {x: 0.018164318, y: -0.7461566, z: 0.02038828, w: 0.66521025}
   m_Size:
     m_Target: 23.158953
     speed: 2
@@ -939,7 +939,7 @@ MonoBehaviour:
   m_LastFolders:
   - Assets
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\Users\DELL\Documents\GitHub\ShaderGraph
+  m_LastProjectPath: C:\Users\DELL\Documents\GitHub\Unity-ShaderGraph\ShaderGraph
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -1001,7 +1001,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000605001007ce00e0064130100e2860000ce770100ee8b0000f8a106003a530000425900003053000010a406000000000014830400665c000072000200f85b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
